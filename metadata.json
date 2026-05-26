@@ -1,0 +1,8 @@
+{
+  "name": "RelationIQ",
+  "description": "Personal contact repository + relationship intelligence system. A structured database of everyone you know, how you know them, and how those relationships evolve over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

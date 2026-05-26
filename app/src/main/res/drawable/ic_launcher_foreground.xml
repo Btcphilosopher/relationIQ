@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Core Graph Connector Lines -->
+    <path
+        android:strokeWidth="4"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:pathData="M44,40 L68,48 M44,40 L52,72 M68,48 L52,72" />
+    
+    <!-- Intelligent Node A (Major Tie Hub) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeColor="#38BDF8"
+        android:pathData="M44,40m-9,0a9,9 0 1,1 18,0a9,9 0 1,1 -18,0" />
+        
+    <!-- Intelligent Node B (Emergent Prospect) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeColor="#38BDF8"
+        android:pathData="M68,48m-7,0a7,7 0 1,1 14,0a7,7 0 1,1 -14,0" />
+        
+    <!-- Intelligent Node C (Project Opportunity) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeColor="#38BDF8"
+        android:pathData="M52,72m-8,0a8,8 0 1,1 16,0a8,8 0 1,1 -16,0" />
+        
+    <!-- Inner glowing brain core identifier -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M44,40m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0" />
+</vector>
